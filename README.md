@@ -1,8 +1,9 @@
 # color-terminal - Colorir terminal Python
 Um pacote para você colorir seu terminal python, e deixar as coisas mais animada.
 
+!["TELA"](./imagem.PNG)
 
-# Instalação
+### Instalação do Projeto Local
 + Baixe o Repositorio:  `git clone https://github.com/jeffersonalionco/color-terminal.git` <br>
 + Entre na pasta do projeto: `cd color-terminal`<br>
 + Crie a Variavel de Ambiente: `python -m venv venv`<br>
